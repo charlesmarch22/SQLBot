@@ -1,4 +1,4 @@
-# Natural Language → SQL
+# SQLBot + MapBox
 
 ### 
 
@@ -91,21 +91,3 @@ More data → Better CensusGPT and sfGPT
 #### Query Building:
 
 Users build complex queries progressively. They start with a simple query like _"Which neighborhoods in LA have the best schools?"_ and then progressively add details like _"with median income that is under $100,000"_. One of the most powerful aspects of textSQL is enabling iterating on a query as a process of uncovering insights.
-
-### 
-
-## :computer: How to Contribute:
-
-Join our [discord](https://discord.gg/JZtxhZQQus)
-
-ReadMe for the backend [here](https://github.com/caesarHQ/textSQL/blob/main/api/README.md)
-
-ReadMe for the frontend [here](https://github.com/caesarHQ/textSQL/blob/main/client/censusGPT/README.md)
-
-<a href="https://github.com/caesarHQ/textSQL/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=caesarHQ/textSQL" />
-</a>  
-
-### 
-
-**Note:** Census data, like any other dataset, has its limitations and potential biases. Some data may not be collected or reported uniformly across different regions or time periods, which can affect the comparability of results. Users should keep these limitations in mind when interpreting the results of their queries and exercise caution when making decisions based on census data.
